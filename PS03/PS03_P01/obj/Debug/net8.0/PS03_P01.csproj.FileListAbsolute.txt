@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Sr-ea\PS03\PS03_P01\bin\Debug\net8.0\PS03_P01.exe
+C:\Users\User\source\repos\Sr-ea\PS03\PS03_P01\bin\Debug\net8.0\PS03_P01.deps.json
+C:\Users\User\source\repos\Sr-ea\PS03\PS03_P01\bin\Debug\net8.0\PS03_P01.runtimeconfig.json
+C:\Users\User\source\repos\Sr-ea\PS03\PS03_P01\bin\Debug\net8.0\PS03_P01.dll
+C:\Users\User\source\repos\Sr-ea\PS03\PS03_P01\bin\Debug\net8.0\PS03_P01.pdb
+C:\Users\User\source\repos\Sr-ea\PS03\PS03_P01\obj\Debug\net8.0\PS03_P01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Sr-ea\PS03\PS03_P01\obj\Debug\net8.0\PS03_P01.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Sr-ea\PS03\PS03_P01\obj\Debug\net8.0\PS03_P01.AssemblyInfo.cs
+C:\Users\User\source\repos\Sr-ea\PS03\PS03_P01\obj\Debug\net8.0\PS03_P01.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Sr-ea\PS03\PS03_P01\obj\Debug\net8.0\PS03_P01.dll
+C:\Users\User\source\repos\Sr-ea\PS03\PS03_P01\obj\Debug\net8.0\refint\PS03_P01.dll
+C:\Users\User\source\repos\Sr-ea\PS03\PS03_P01\obj\Debug\net8.0\PS03_P01.pdb
+C:\Users\User\source\repos\Sr-ea\PS03\PS03_P01\obj\Debug\net8.0\PS03_P01.genruntimeconfig.cache
+C:\Users\User\source\repos\Sr-ea\PS03\PS03_P01\obj\Debug\net8.0\ref\PS03_P01.dll
